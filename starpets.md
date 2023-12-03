@@ -1,3 +1,6 @@
+EXPLOIT/CODE FOUND AND MADE BY @Itemset on discord 
+TEST BY LUKE AND NTXING
+
 ### website: https://starpets.gg
 #### Vulnibity: XSS Reflected 
 
