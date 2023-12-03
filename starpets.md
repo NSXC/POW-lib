@@ -1,10 +1,14 @@
 EXPLOIT/CODE FOUND AND MADE BY @Itemset on discord 
 TEST BY LUKE AND NTXING
 
+
+
+
+##Status: Being Fixed
 ### website: https://starpets.gg
 #### Vulnibity: XSS Reflected 
 
-**What can this exploit do?0**
+**What can this exploit do?**
 
 - lets attackers steal access tokens
 - inject JS in to page
