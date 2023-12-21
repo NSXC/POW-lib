@@ -4,7 +4,7 @@ TEST BY LUKE AND NTXING
 
 
 
-## Status: Being Fixed❤
+## Status: Fixed❤
 
 ### website: https://starpets.gg
 #### Vulnibity: XSS Reflected 
