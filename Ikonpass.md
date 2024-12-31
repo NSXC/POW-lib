@@ -6,7 +6,7 @@ EXPLOIT/CODE FOUND AND MADE BY @ntxin on discord
 
 ## Status: Not Fixed😡
 
-### website: https://ikonpass.gg
+### website: https://ikonpass.com
 #### Vulnibity: XSS Reflected 
 #### Danger P5
 
