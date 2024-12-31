@@ -1,7 +1,7 @@
 EXPLOIT FOUND BY NTXING CODED BY NTXING EXPLOITED BY NTXING
 
 
-## Status: Vulnerable😡
+## Status: Not Fixed😡
 
 ### website: https://ssologin.nbcuni.com/login/login.jsp
 #### Vulnibity: URL-Based Stored Cross-Site Scripting
